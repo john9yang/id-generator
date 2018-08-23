@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+id-generate-core/id-generate-core.iml
+id-generate-rest/id-generate-rest.iml
+id-generate-core/target/
+id-generate-rest/target/
+/.project
+*.class
+*.jar
+.settings/
+.externalToolBuilders/
